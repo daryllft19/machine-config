@@ -33,6 +33,8 @@ Plugin 'Valloric/YouCompleteMe'
 Plugin 'tpope/vim-fugitive'
 Plugin 'posva/vim-vue'
 Plugin 'morhetz/gruvbox'
+Plugin 'leafgarland/typescript-vim'
+Plugin 'Quramy/tsuquyomi'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
